@@ -13,4 +13,9 @@ ls la
 chmod +x <NOME_DO_ARQUIVO>
 
 ```
+Você clona um repositório com "git clone" <URL_DO_LINK/SSH/HTTPS>. 
 
+```
+git clone <URL>
+
+```
