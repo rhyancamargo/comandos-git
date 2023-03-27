@@ -31,7 +31,12 @@ git clone <URL>
 git mv <nome_atual_do_arquivo nome_de_destino_para_o_arquvio>
 
 ```
+Depois que você tiver criado vários commits, ou se clonou um repositório com um histórico de commits existente, você provavelmente vai querer ver o que aconteceu. A ferramente mais básica e poderosa para fazer isso é o comando:
 
+```
+git log 
+
+```
 
 
 
